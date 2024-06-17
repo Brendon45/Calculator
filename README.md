@@ -1,6 +1,6 @@
 # Calculator📱
 
-Welcome to the **Web_Calculator**, a straightforward and user-friendly web application designed to perform basic arithmetic operations seamlessly!
+Welcome to the `Web_Calculator`, a straightforward and user-friendly web application designed to perform basic arithmetic operations seamlessly!
 
 ## Table of Contents
 
