@@ -36,27 +36,27 @@ This project is a simple calculator built with HTML, CSS, and JavaScript. It is 
 
 - To get a local copy up and running, follow these simple steps:
 
-Prerequisites
+`Prerequisites`
 
 - You will need a modern web browser and a text editor (like VS Code).
 
-Installation
+`Installation`
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/Calculator.git
+            git clone https://github.com/your-username/Calculator.git
 
 2. Navigate to the project directory:
 
-    cd **Calculator**
+            cd `Calculator`
 
 3. Open the index.html file in your web browser:
 
-    open *index.html*
+            open *index.html*
 
 ## Usage
 
-1. Open the **Calculator** in your web browser.
+1. Open the `Calculator` in your web browser.
 2. Use the buttons on the calculator or your keyboard to perform calculations.
 3. The display will show your input and the result.
 
