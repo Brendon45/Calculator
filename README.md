@@ -48,11 +48,11 @@ This project is a simple calculator built with HTML, CSS, and JavaScript. It is 
 
 2. Navigate to the project directory:
 
-            cd `Calculator`
+            cd Calculator
 
 3. Open the index.html file in your web browser:
 
-            open *index.html*
+            open index.html
 
 ## Usage
 
