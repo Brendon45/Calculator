@@ -1,27 +1,30 @@
-# Calculator🧮
+# Calculator📱
 
 Welcome to the Web_Calculator, a straightforward and user-friendly web application designed to perform basic arithmetic operations seamlessly!
 
 ## Table of Contents
+
 - [Introduction](introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Authors](#authors)
 - [License](#license)
+
 ## Introduction
 
 This project is a simple calculator built with HTML, CSS, and JavaScript. It is designed to help practice frontend development skills by implementing a fully functional calculator that performs basic arithmetic operations.
 
-## Features
+## Features✨
 
 - Addition, subtraction, multiplication, and division
 - Clear and backspace functionality
 - Responsive design for various screen sizes
 - Keyboard input support
 
-## Technologies Used
+## Technologies Used💻
 
 - HTML5: Used for structuring the calculator's user interface and defining its elements.
 
@@ -29,7 +32,7 @@ This project is a simple calculator built with HTML, CSS, and JavaScript. It is 
 
 - JavaScript (ES6): Implements the calculator's logic, enabling it to perform arithmetic operations and handle user interactions seamlessly.
 
-## Getting Started
+## Getting Started</>
 
 - To get a local copy up and running, follow these simple steps:
 
@@ -57,7 +60,7 @@ Installation
 2. Use the buttons on the calculator or your keyboard to perform calculations.
 3. The display will show your input and the result.
 
-## Contributing
+## Contributing👩‍💻👨‍💻
 
 - Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -71,3 +74,10 @@ Installation
 
 5. Open a Pull Request
 
+## AUTHORS✒️
+
+Brendon Jeje       [Github](https://github.com/Brendon45) | [Linkedin](https://www.linkedin.com/in/brendonjeje/) | [Twitter](https://twitter.com/brendon4545) | [Linktree](https://linktr.ee/brendonjeje)
+
+## License
+
+- This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
