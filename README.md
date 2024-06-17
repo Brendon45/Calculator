@@ -1,6 +1,6 @@
 # Calculator📱
 
-Welcome to the Web_Calculator, a straightforward and user-friendly web application designed to perform basic arithmetic operations seamlessly!
+Welcome to the **Web_Calculator**, a straightforward and user-friendly web application designed to perform basic arithmetic operations seamlessly!
 
 ## Table of Contents
 
@@ -48,15 +48,15 @@ Installation
 
 2. Navigate to the project directory:
 
-    cd Calculator
+    cd **Calculator**
 
 3. Open the index.html file in your web browser:
 
-    open index.html
+    open *index.html*
 
 ## Usage
 
-1. Open the calculator in your web browser.
+1. Open the **Calculator** in your web browser.
 2. Use the buttons on the calculator or your keyboard to perform calculations.
 3. The display will show your input and the result.
 
@@ -80,4 +80,4 @@ Brendon Jeje       [Github](https://github.com/Brendon45) | [Linkedin](https://w
 
 ## License
 
-- This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+- This project is licensed under the *MIT* License. See the [LICENSE.md](LICENSE.md) file for details.
