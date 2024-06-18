@@ -128,3 +128,24 @@ a {
     text-decoration: none;
     color: white;
 }
+/* Style for the copyright section */
+.copyright {
+    text-align: center;
+    padding: 10px;
+    background-color: #00b8d4; /* blue background color for contrast */
+    color: white; /* white text color for readability */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1); /* Slight shadow for separation */
+    font-size: 1.2em; /* Increase font size */
+}
+
+.copyright a {
+    color: green; /* Link color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+.copyright a:hover {
+    text-decoration: underline; /* Underline link on hover */
+}
